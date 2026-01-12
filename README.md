@@ -1,4 +1,23 @@
 # README
+## プロフィール
+### crates.io
+https://crates.io/users/kyuki3rain
+
+### github
+https://github.com/kyuki3rain
+
+### vscode extention
+https://marketplace.visualstudio.com/publishers/kyuki3rain
+
+## リリース
+### md-tasks
+https://marketplace.visualstudio.com/items?itemName=kyuki3rain.md-tasks
+
+### cr-prep
+https://crates.io/crates/cr-prep
+
+### generate-strong-password
+https://crates.io/crates/generate-strong-password
 
 ## 統計情報
 
