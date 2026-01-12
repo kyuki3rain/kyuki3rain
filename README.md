@@ -24,16 +24,14 @@
   </a>
 </p>
 
+<!--
 ### その他
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyuki3rain&count_private=true&show_icons=true&theme=github_dark&private=true&include_all_commits=true" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kyuki3rain&theme=dark)](https://git.io/streak-stats)
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=kyuki3rain&theme=onedark" />
-</p>
+[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=kyuki3rain)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p>
   <img src="https://github-readme-stats-gamma-sand-42.vercel.app/api/wakatime?username=kyuki3rain" />
 </p>
+--!>
